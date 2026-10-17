@@ -1,0 +1,13 @@
+:HL["/anjoman-spec/_next/static/chunks/0pocquv7w5jd5.css","style"]
+:HC["/",""]
+:HL["/anjoman-spec/brand/favicon-16.png","image"]
+:HL["/anjoman-spec/brand/avatar-400.png","image"]
+:HL["/anjoman-spec/brand/logo/lockup-night.svg","image"]
+:HL["/anjoman-spec/brand/logo/lockup-day.svg","image"]
+:HL["/anjoman-spec/brand/logo/lockup-bilingual-night.svg","image"]
+:HL["/anjoman-spec/brand/logo/app-icon.svg","image"]
+:HL["/anjoman-spec/brand/logo/mark-ink.svg","image"]
+:HL["/anjoman-spec/brand/logo/mark-bone-outline.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"brand","h":96,"c":"$Q2"}]]
+0:{"b":"hE7RqzelOcxmEBAWdUFCL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
